@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\RSS\\Test\\PokemonApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|c:\\rss\\test\\pokemonapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|c:\\rss\\test\\pokemonapp\\views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|solutionrelative:views\\pokemon\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|c:\\rss\\test\\pokemonapp\\services\\pokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|solutionrelative:services\\pokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|c:\\rss\\test\\pokemonapp\\models\\pokemonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|solutionrelative:models\\pokemonresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|c:\\rss\\test\\pokemonapp\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|solutionrelative:controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|c:\\rss\\test\\pokemonapp\\models\\pokemonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|solutionrelative:models\\pokemonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|c:\\rss\\test\\pokemonapp\\services\\ipokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|solutionrelative:services\\ipokemonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|c:\\rss\\test\\pokemonapp\\models\\pokemonspeciesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FC9534-A1F2-4CD0-9BA6-843758E97D97}|PokemonApp.csproj|solutionrelative:models\\pokemonspeciesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 379,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\RSS\\Test\\PokemonApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\RSS\\Test\\PokemonApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T21:24:12.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\RSS\\Test\\PokemonApp\\Views\\Pokemon\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pokemon\\Index.cshtml",
+              "ToolTip": "C:\\RSS\\Test\\PokemonApp\\Views\\Pokemon\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pokemon\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAqwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T21:22:41.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokemonService.cs",
+              "DocumentMoniker": "C:\\RSS\\Test\\PokemonApp\\Services\\PokemonService.cs",
+              "RelativeDocumentMoniker": "Services\\PokemonService.cs",
+              "ToolTip": "C:\\RSS\\Test\\PokemonApp\\Services\\PokemonService.cs",
+              "RelativeToolTip": "Services\\PokemonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:14:17.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPokemonService.cs",
+              "DocumentMoniker": "C:\\RSS\\Test\\PokemonApp\\Services\\IPokemonService.cs",
+              "RelativeDocumentMoniker": "Services\\IPokemonService.cs",
+              "ToolTip": "C:\\RSS\\Test\\PokemonApp\\Services\\IPokemonService.cs",
+              "RelativeToolTip": "Services\\IPokemonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:14:13.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PokemonSpeciesModel.cs",
+              "DocumentMoniker": "C:\\RSS\\Test\\PokemonApp\\Models\\PokemonSpeciesModel.cs",
+              "RelativeDocumentMoniker": "Models\\PokemonSpeciesModel.cs",
+              "ToolTip": "C:\\RSS\\Test\\PokemonApp\\Models\\PokemonSpeciesModel.cs",
+              "RelativeToolTip": "Models\\PokemonSpeciesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:14:08.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokemonResponse.cs",
+              "DocumentMoniker": "C:\\RSS\\Test\\PokemonApp\\Models\\PokemonResponse.cs",
+              "RelativeDocumentMoniker": "Models\\PokemonResponse.cs",
+              "ToolTip": "C:\\RSS\\Test\\PokemonApp\\Models\\PokemonResponse.cs",
+              "RelativeToolTip": "Models\\PokemonResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:13:58.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PokemonModel.cs",
+              "DocumentMoniker": "C:\\RSS\\Test\\PokemonApp\\Models\\PokemonModel.cs",
+              "RelativeDocumentMoniker": "Models\\PokemonModel.cs",
+              "ToolTip": "C:\\RSS\\Test\\PokemonApp\\Models\\PokemonModel.cs",
+              "RelativeToolTip": "Models\\PokemonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T21:13:36.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\RSS\\Test\\PokemonApp\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\RSS\\Test\\PokemonApp\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "Controllers\\PokemonController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T20:33:16.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
